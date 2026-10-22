@@ -43,6 +43,9 @@ pytest -q
 ```
 All tables and figures are written to `outputs/<step>/`.
 
+## License
+This project is licensed under the MIT License. See `/LICENSE` for details.
+
 ## Notes
 - The SHAP step uses `core` features by default (no `current_activity` or
   `transport_to_work`); this reproduces the final RF/GB SHAP figures.
