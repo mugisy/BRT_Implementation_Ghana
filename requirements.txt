@@ -1,0 +1,14 @@
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.2
+statsmodels>=0.14
+matplotlib>=3.6
+seaborn>=0.12
+shap>=0.42
+# optional (GAM arm and robustness appendix)
+pygam>=0.9
+lightgbm>=4.0
+xgboost>=1.7
+# testing
+pytest>=7
